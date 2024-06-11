@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nikitalohiya/ReactCurdApplication/static/css/main.43d8d538.css",
+    "main.js": "/nikitalohiya/ReactCurdApplication/static/js/main.6db0793e.js",
+    "index.html": "/nikitalohiya/ReactCurdApplication/index.html",
+    "main.43d8d538.css.map": "/nikitalohiya/ReactCurdApplication/static/css/main.43d8d538.css.map",
+    "main.6db0793e.js.map": "/nikitalohiya/ReactCurdApplication/static/js/main.6db0793e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d8d538.css",
+    "static/js/main.6db0793e.js"
+  ]
+}
